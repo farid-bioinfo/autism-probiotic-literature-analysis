@@ -63,6 +63,12 @@ This project systematically synthesises randomised controlled trial evidence on 
     └── search_export_summary.csv      # Deduplicated search results (MeSH + free-text)
 ```
 
+## 🔄 PRISMA Flow Diagram
+
+![PRISMA Flow Diagram](figures/prisma_flow_diagram.svg)
+
+*Interactive React version available at [`analysis/prisma_flowchart.jsx`](analysis/prisma_flowchart.jsx).*
+
 ## 🛠 Tools & Stack
 
 `R` (metafor, dplyr, ggplot2, robvis) · `Python` · LibreOffice (ODT/PRISMA diagrams) · WebPlotDigitizer (figure data extraction) · Git/GitHub
