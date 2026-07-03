@@ -4,7 +4,7 @@
 
 **Status:** Manuscript complete — under peer review at a peer-reviewed journal (submitted June 2026)
 **Author:** Farid | Independent Researcher, London
-**ORCID:** [0009-0009-4443-6037](https://orcid.org/0009-0009-4443-6037)
+**ORCID:** https://orcid.org/0009-0009-4443-6037
 **Protocol:** Registered on OSF — [osf.io/tch47](https://osf.io/tch47)
 
 ---
@@ -83,7 +83,7 @@ This project systematically synthesises randomised controlled trial evidence on 
 
 ## 📬 Contact
 
-Available upon request via [ORCID](https://orcid.org/0009-0009-4443-6037).
+Available upon request via https://orcid.org/0009-0009-4443-6037
 
 ## 📄 License
 
